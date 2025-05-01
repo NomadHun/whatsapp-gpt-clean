@@ -1,0 +1,584 @@
+[
+  {
+    "Название": "ALPI",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/alpi.png"
+  },
+  {
+    "Название": "ALONE NOCHE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "6,5 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/alone_noche.jpg"
+  },
+  {
+    "Название": "ARCIDES BONE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/arcides_bone.png"
+  },
+  {
+    "Название": "ARCTURUSE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/arcturuse.jpg"
+  },
+  {
+    "Название": "ARK BLACK",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/ark_black.jpg"
+  },
+  {
+    "Название": "ARK IVORY",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/ark_ivory.png"
+  },
+  {
+    "Название": "ARK SILVER",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полу-матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/ark_silver.png"
+  },
+  {
+    "Название": "ARK WHITE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/ark_white.png"
+  },
+  {
+    "Название": "ARTECH WHITE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Италия",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/artech_white.png"
+  },
+  {
+    "Название": "AURORA",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/aurora.png"
+  },
+  {
+    "Название": "BETON BIANCO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полу-матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/beton_bianco.png"
+  },
+  {
+    "Название": "BIANCO RIVER",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/bianco_river.jpg"
+  },
+  {
+    "Название": "BLUE JEANS",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/blue_jeans.png"
+  },
+  {
+    "Название": "BONA DEA CREMA",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/bona_dea_crema.png"
+  },
+  {
+    "Название": "CALACATTA",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/calacatta.jpg"
+  },
+  {
+    "Название": "CALACATTA GOLDIE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/calacatta_goldie.png"
+  },
+  {
+    "Название": "CAFE TRAVERTINO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полу-матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/cafe_travertino.png"
+  },
+  {
+    "Название": "CANYON GRIGIO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/canyon_grigio.png"
+  },
+  {
+    "Название": "CANYON ORO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/canyon_oro.png"
+  },
+  {
+    "Название": "CELINA",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/celina.png"
+  },
+  {
+    "Название": "CEMENTO IVORY",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/cemento_ivory.png"
+  },
+  {
+    "Название": "CIPOLLINO GRIGIO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг"
+  },
+  {
+    "Название": "CREMA TRAVERTINO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/crema_travertino.png"
+  },
+  {
+    "Название": "CREME BLANC",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/creme_blanc.png"
+  },
+  {
+    "Название": "COMPLETO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/completo.png"
+  },
+  {
+    "Название": "CONCEPT WHITE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/concept_white.png"
+  },
+  {
+    "Название": "FIROZA",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/firoza.png"
+  },
+  {
+    "Название": "FREYA",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/freya.png"
+  },
+  {
+    "Название": "GAIOS (A, B, C)",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг"
+  },
+  {
+    "Название": "GOLDEN BLACK",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/golden_black.jpg"
+  },
+  {
+    "Название": "HYPNOS",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/hypnos.jpg"
+  },
+  {
+    "Название": "HORMIGON MOLDE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/hormigon_molde.png"
+  },
+  {
+    "Название": "LAGOM SAND",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/lagom_sand.png"
+  },
+  {
+    "Название": "LUNA OFFWHITE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/luna_offwhite.png"
+  },
+  {
+    "Название": "MAPSTONE PEARL",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/mapstone_pearl.png"
+  },
+  {
+    "Название": "MARMAROS",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Италия",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/marmaros.png"
+  },
+  {
+    "Название": "MARMI STATUARIO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/marmi_statuario.png"
+  },
+  {
+    "Название": "MARTINS MARBLE DARK",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/martins_marble_dark.png"
+  },
+  {
+    "Название": "MARTINS MARBLE LIGHT",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/martins_marble_light.png"
+  },
+  {
+    "Название": "MARFIL ROSSO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/marfil_rosso.jpg"
+  },
+  {
+    "Название": "MELLOW GOLD",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/mellow_gold.png"
+  },
+  {
+    "Название": "MERCAN",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полу-матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/mercan.png"
+  },
+  {
+    "Название": "MILA",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/mila.png"
+  },
+  {
+    "Название": "MILANO MARFIL",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/milano_marfil.png"
+  },
+  {
+    "Название": "MILANO PERLA",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/milano_perla.png"
+  },
+  {
+    "Название": "NOTTE BLUE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/notte_blue.png"
+  },
+  {
+    "Название": "NORGAY",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Италия",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/norgay.png"
+  },
+  {
+    "Название": "PAONAZZO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/paonazzo.png"
+  },
+  {
+    "Название": "PATCHWORK",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Италия",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/patchwork.png"
+  },
+  {
+    "Название": "PEARL",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/pearl.png"
+  },
+  {
+    "Название": "POLE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/pole.jpg"
+  },
+  {
+    "Название": "PONZA SHINE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/ponza_shine.png"
+  },
+  {
+    "Название": "PULPIS GREY",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/pulpis_grey.png"
+  },
+  {
+    "Название": "PULPIS NERO",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/pulpis_nero.png"
+  },
+  {
+    "Название": "RIVER IVORY",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полу-матовая",
+    "Страна-производитель": "Италия",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/river_ivory.png"
+  },
+  {
+    "Название": "STARK GRAPHITE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "матовая",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/stark_graphite.png"
+  },
+  {
+    "Название": "SUN ONYX",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/sun_onyx.png"
+  },
+  {
+    "Название": "SUKHA BOOKMATCH (A, B, C, D)",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг"
+  },
+  {
+    "Название": "VENATO ONICE BEIGE",
+    "Размер": "60 x 120 cm",
+    "Толщина": "7 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/venato_onice_beige.png"
+  },
+  {
+    "Название": "ARTEMODERNA",
+    "Размер": "120 x 180 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "11000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/artemoderna.jpg"
+  },
+  {
+    "Название": "MAESTRO",
+    "Размер": "120 x 180 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "11000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/maestro.jpg"
+  },
+  {
+    "Название": "AGATHA WHITE",
+    "Размер": "60 x 60 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/agatha_white.jpg"
+  },
+  {
+    "Название": "DESTINY MATT WHITE",
+    "Размер": "60 x 60 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8000 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/destiny_matt_white.jpg"
+  },
+  {
+    "Название": "ROCK DARK NATURA",
+    "Размер": "40 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8500 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/rock_dark_natura.jpg"
+  },
+  {
+    "Название": "ROCK LIGHT NATURA",
+    "Размер": "40 x 120 cm",
+    "Толщина": "9 mm",
+    "Поверхность": "полированная",
+    "Страна-производитель": "Турция",
+    "Цена за кв. м": "8500 тг",
+    "image_url": "https://raw.githubusercontent.com/NomadHun/whatsapp-agent/main/assets/rock_light_natura.jpg"
+  }
+]
